@@ -1,4 +1,4 @@
 usr
 ===
 
-Universal Serial Reader.
+Universal Serial Reader is being developed...
